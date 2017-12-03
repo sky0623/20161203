@@ -1,0 +1,16 @@
+﻿
+
+<html>
+<head>
+<title><我的第二頁/title>
+</head>
+<body>
+
+<a href="index.html">連到我的首頁 </a>
+<p>
+<a href="3rd.html">連到第三頁 </a>
+
+
+</body>
+
+</html>
